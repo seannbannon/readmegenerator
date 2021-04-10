@@ -13,18 +13,25 @@ ${data.description}
 - [Test](#Test)
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
+
 ## Installation
 ${data.installation}
+
 ## Usage
 ${data.usage}
-## Licence
-${data.licence}
+
+## License
+${data.license}
+
 ## Contributors
 ${data.contributing}
+
 ## Test
 ${data.test}
+
 ## Repository
 - [Project Repo](${data.repo})
+
 ## GitHub
 ![Image of me](${githubInfo.githubImage})
 - ${githubInfo.name}
