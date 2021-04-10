@@ -29,7 +29,7 @@ const questions = [
     {
         type: "input",
         name: "license",
-        message: "Choose a license for your project"
+        message: "Choose a license for your project",
         choices: ['MIT', 'GPL', 'Apache', 'GNJ']
 
     },
@@ -59,9 +59,7 @@ inquirer
     .prompt(questions)
     .then(function(data){
         const queryUrl = `https://api.github.com/users/${data.username}`;
-
         axios.get(queryUrl).then(function(res) {
-            
             const githubInfo = {
                 githubImage: res.data.avatar_url,
                 email: res.data.email,

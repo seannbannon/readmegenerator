@@ -1,29 +1,36 @@
 
-# **README generator**
-no
+# **Readme Generator**
+undefined
 ## Description 
-Creates a Professional Readme
+Creates a Readme
 ## Table of contents
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Licence](#Licence)
+- [License](#License)
 - [Contributors](#Contributors)
 - [Test](#Test)
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
+
 ## Installation
 node index.js
+
 ## Usage
-Used to make a readme
-## Licence
+Makes a Readme
+
+## License
 MIT
+
 ## Contributors
-Sean Bannonm
+Sean Bannon
+
 ## Test
-ok
+n/a
+
 ## Repository
-- [Project Repo](right here)
+- [Project Repo](https://github.com/seannbannon/readmegenerator)
+
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/74569408?v=4)
 - Sean Bannon

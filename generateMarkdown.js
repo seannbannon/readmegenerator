@@ -1,4 +1,4 @@
-function generateMarkdown(data, githubInfo) {
+function generate(data, githubInfo) {
   return `
 # **${data.title}**
 ${data.badge}
@@ -40,4 +40,4 @@ ${data.test}
 `;
 }
 
-module.exports = generateMarkdown;
+module.exports = generate;
