@@ -35,11 +35,8 @@ n/a
 ![Image of me](https://avatars.githubusercontent.com/u/74569408?v=4)
 
 
-
+**VIDEO FUNCTIONALITY**
 https://user-images.githubusercontent.com/74569408/114258636-9c7fed00-998d-11eb-8123-68c8db8b2bd5.mp4
-
-
-https://user-images.githubusercontent.com/74569408/114258648-a6095500-998d-11eb-9a11-32741fdb0a9c.mp4
 
 
 - Sean Bannon
