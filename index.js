@@ -2,7 +2,7 @@
 const inquirer = require("inquirer");
 const fs = require('fs');
 const axios = require("axios");
-const generate = require('./utils/generateMarkdown');
+const generate = require('./generateMarkdown');
 
 // Require all npm packages and files
 const questions = [
@@ -10,11 +10,6 @@ const questions = [
         type: "input",
         name: "title",
         message: "What is your project title?"
-    },
-    {
-        type: "input",
-        name: "badge",
-        message: "Please provide the badges links that you want"
     },
     {
         type: "input",
@@ -33,8 +28,10 @@ const questions = [
     },
     {
         type: "input",
-        name: "licence",
-        message: "Please provide the project licence or your badge link"
+        name: "license",
+        message: "Choose a license for your project"
+        choices: ['MIT', 'GPL', 'Apache', 'GNJ']
+
     },
     {
         type: "input",
