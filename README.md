@@ -36,8 +36,7 @@ n/a
 
 
 **VIDEO FUNCTIONALITY**
-https://user-images.githubusercontent.com/74569408/114258636-9c7fed00-998d-11eb-8123-68c8db8b2bd5.mp4
-
+https://drive.google.com/file/d/1snegYNXlEPPlOs0O96ZTkLnKedw9_7UX/view
 
 - Sean Bannon
 - [GitHub Profile](https://github.com/seannbannon)
